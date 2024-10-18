@@ -11,7 +11,7 @@ const about = {
   names: ['Asfand', 'Yar'],
   greetingEmoji: '👋',
   role: 'Mobile Developer',
-  company: 'Contribee',
+  company: 'Contribee, UAB',
   description: [
     'a mobile developer who loves bringing ideas to life through apps. I specialize in creating smooth and engaging experiences with Flutter, making sure the apps not only work well but also look great. From sleek interfaces to eye-catching animations, I’m all about the details that make big difference.',
   ],
