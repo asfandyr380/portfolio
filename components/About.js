@@ -59,7 +59,7 @@ const About = () => {
       {(resume || social) && (
         <div className={`about__contact center ${fadeInAnimationClassName}`}>
           {resume && (
-            <a href={resume} target='_blank' rel='noreferrer'>
+            <a href={resume} download="resume">
               <span type='button' className='btn btn--outline'>
                 Resume!
               </span>
