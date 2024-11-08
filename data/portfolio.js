@@ -15,7 +15,7 @@ const about = {
   description: [
     'a mobile developer who loves bringing ideas to life through apps. I specialize in creating smooth and engaging experiences with Flutter, making sure the apps not only work well but also look great. From sleek interfaces to eye-catching animations, I’m all about the details that make big difference.',
   ],
-  resume: '/resume.pdf',
+  resume: 'images/Resume.pdf',
   social: {
     github: 'https://github.com/asfandyr380',
     linkedin: 'https://www.linkedin.com/in/asfand-yar-4775851b2/',
